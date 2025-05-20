@@ -2,8 +2,8 @@
 h1 {
     font-size: 5em;
     text-align: center;
-    background-color: aqua;
-    color: darkblue;
+     background-image: linear-gradient(to right, red, blue);
+    color: black;
     margin-top: 0px;
     padding: 25px;
     border: 2px solid black;
